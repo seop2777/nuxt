@@ -5,7 +5,7 @@ module.exports = {
   target: 'static',
   ssr: false,
   router: {
-    base: '/seop2777/nuxt/'
+    base: '/nuxt/'
   },
   head: {
     title: 'nuxt',
